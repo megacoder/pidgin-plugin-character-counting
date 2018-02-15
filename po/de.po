@@ -1,0 +1,27 @@
+# German translation for pidgin-character-counting
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the pidgin-character-counting package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pidgin-character-counting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-28 19:41+0100\n"
+"PO-Revision-Date: 2011-01-24 18:04+0000\n"
+"Last-Translator: Siggi0904 <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-01-25 07:11+0000\n"
+"X-Generator: Launchpad (build 12177)\n"
+
+#: ../src/character-counting.c:213
+msgid "Character Counting"
+msgstr "Zeichen zählen"
+
+#: ../src/character-counting.c:214 ../src/character-counting.c:215
+msgid "Display current number of characters in a conversation's input widget."
+msgstr "Anzeige der aktuellen Anzahl an Zeichen im Gesprächsfenster."

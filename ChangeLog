@@ -1,0 +1,3 @@
+Version 2.3 (2011/01/28):
+	* FIX: count UTF-8 character correctly
+	* Overtaken plugin development from http://dossy.org/2007/10/character-counting-plugin-for-pidgin/
